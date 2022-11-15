@@ -32,3 +32,4 @@ CORE OBJECTIVES This project aims at providing an indepth understanding of the f
 
 OUTPUT The program has the exact same output as sh (/bin/sh) as well as the exact same error output. Where the program prints an error, the name of the program is equivalent to argv[0]
 # simple_shell
+# simple_shell
